@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 py-cord = "^2.6.0"
 python-dotenv = "^1.0.1"
+pdf2image = "^1.17.0"
 
 
 [build-system]
